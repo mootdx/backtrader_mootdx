@@ -1,5 +1,5 @@
 Welcome to backtrader_mootdx's documentation!
-======================================
+===============================================
 
 .. toctree::
    :maxdepth: 2
